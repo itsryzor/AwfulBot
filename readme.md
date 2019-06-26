@@ -1,1 +1,1 @@
-Congrats you just wasted 5 seconds of your time.
+Reading this readme is a waste of time.
