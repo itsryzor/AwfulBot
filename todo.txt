@@ -1,0 +1,9 @@
+In no particular order
+
+1. Access OpenWeather API using my key
+2. Parse inputs from the user into machine readable form
+3. Implement !weather command
+4. Read data from OpenWeather
+5. Parse data into usable format
+6. Perform output logic to get it into a human readable form
+7. Pass data to user
