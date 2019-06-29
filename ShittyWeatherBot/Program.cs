@@ -1,8 +1,8 @@
 ﻿//AwfulBot Version 0.0001
 //Treating this as a serious entry is a waste of time
 //Literally all this bot does at the moment is echo text typed to it using !say
-//But it is my first programming project and a work in progress
-//I will add to it as I learn
+//But it is my first programming project
+//The entire point was to learn how Async and the Discord API work
 //As the name suggests, one day it will display weather information
 //As soon as I figure out how to use the API and parse data properly :)
 
@@ -28,7 +28,7 @@ namespace ShittyWeatherBot
         //No idea what this does but MainAsync() doesn't work without it
         private DiscordSocketClient _client;
         
-        //new instance of each for some reason
+        //new instance of each
         private CommandHandler _handler;
         private CommandService _service;
 
